@@ -12,7 +12,7 @@ namespace TestWebSite.Controllers
         {
             ViewBag.Title = "Home Page";
 
-            return Vi ew();
+            return View();
         }
     }
 }
